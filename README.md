@@ -1,6 +1,4 @@
-Jacob Daniels-Flechtner
-jatdanie
-Assignment 5
+Jacob Daniels-Flechtner / jatdanie / Assignment 5
 
 Controls:
 - Use WASD to move
